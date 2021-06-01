@@ -2,8 +2,8 @@
 base = 10
 altura = 50
 
-area = base * altura/2
+area = base * altura
 
-puts "El area del triángulo es= " + area.to_s
+puts "El area del rectángulo es= " + area.to_s
 
-puts "El área del triángulo es: #{area}"  
+puts "El área del rectángulo es: #{area}"  
