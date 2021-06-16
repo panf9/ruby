@@ -13,7 +13,7 @@ def trimeste(mes)
         when 10 .. 12
             puts "El mes #{mes} pertenece al cuarto trimestre"
         else
-        puts "El número de mes ingresado no es correcto. Por favor, ingrese uno correto"
+            puts "El número de mes ingresado no es correcto. Por favor, ingrese uno correto"
     end
 end
 
